@@ -1,2 +1,3 @@
-HelloWorld
-.o
+hello
+*.o
+nbproject
